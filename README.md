@@ -2,9 +2,8 @@
 <!--
 **Gbarra9/Gbarra9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<br/>
-
 ### I am a Front-end Developer 🚀
+<br/>
 
 - 🔭 I’m currently working on personal projects.
 - 🌱 I’m currently learning node.js 
