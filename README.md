@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on personal projects.
 - 🌱 I’m currently learning node.js 
 - 📫 How to reach me: Gebarra9@gmail.com
-- ⚡ Fun fact: I enjoy light novels and my favorite caffeine drink is black tea.
+- ⚡ Fun fact: I enjoy reading light novels and my favorite caffeine drink is black tea.
 
 ## Technologies and Tools 🔧
 
