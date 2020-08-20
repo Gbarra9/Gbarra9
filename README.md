@@ -10,6 +10,9 @@
 - 📫 How to reach me: Gebarra9@gmail.com
 - ⚡ Fun fact: I enjoy reading light novels and my favorite caffeine drink is black tea.
 
-## Technologies and Tools 🔧
+### Listening on Spotify 🎧 
+[<img src="https://spotify-currently-playing.vercel.app/api/spotify-playing" alt="Gene's Spotify Playing" width="350" />](https://open.spotify.com/user/b7t7s1j81r3ynne4bkoosnuf5)
+
+### Technologies and Tools 🔧
 
 <br/>
