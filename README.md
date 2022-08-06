@@ -11,9 +11,6 @@
 - 📫 How to reach me: Gebarra9@gmail.com
 - ⚡ Fun facts: I enjoy taking long walks and my favorite caffeine drink is black tea.
 
-### Listening on Spotify 🎧 
-[<img src="https://now-playing.gbarra9.vercel.app/now-playing" alt="Gene's Spotify Playing" width="350" />](https://open.spotify.com/user/b7t7s1j81r3ynne4bkoosnuf5)
-
 ### Technologies and Tools 🔧
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
